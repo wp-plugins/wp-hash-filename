@@ -19,3 +19,7 @@ This plugin can rename your upload filename by hash, no matter what language fil
 
 1. Upload `wp-hash-filename` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+1. All upload files be renamed by hash md5.
