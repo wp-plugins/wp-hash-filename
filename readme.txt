@@ -7,21 +7,21 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Rename upload filename by hash.HASHÖØÃüÃûÉÏ´«ÎÄ¼şÃû¡£
+Rename upload filename by hash.HASHé‡å‘½åä¸Šä¼ æ–‡ä»¶åã€‚
 
 == Description ==
 
 [Plugin homepage](http://xiedexu.cn/wp-hash-filename.htm) | [Plugin author](http://www.iopenv.com)
 
-This plugin can rename your upload filename by hash, no matter what language files.Õâ¸ö²å¼ş¿ÉÒÔHASHÖØÃüÃûÉÏ´«ÎÄ¼ş£¬²»¹ÜÎÄ¼şÃûÃû³Æ£¬ÌØ±ğÊÇÎÒÃÇ¾­³£Óöµ½µÄÖĞÎÄÂÒÂëÎÊÌâµÃÒÔ½â¾ö¡£
+This plugin can rename your upload filename by hash, no matter what language files.è¿™ä¸ªæ’ä»¶å¯ä»¥HASHé‡å‘½åä¸Šä¼ æ–‡ä»¶ï¼Œä¸ç®¡æ–‡ä»¶ååç§°ï¼Œç‰¹åˆ«æ˜¯æˆ‘ä»¬ç»å¸¸é‡åˆ°çš„ä¸­æ–‡ä¹±ç é—®é¢˜å¾—ä»¥è§£å†³ã€‚
 
 == Installation ==
 
-1. Upload `wp-hash-filename` folder to the `/wp-content/plugins/` directory. ÉÏ´«ÎÄ¼ş¼Ğ¡°wp-hash-filename¡±µ½¡°/wp-content/plugins/¡±Ä¿Â¼¡£
-2. Activate the plugin through the 'Plugins' menu in WordPress. ÔÚÒÇ±íÅÌ²å¼ş²Ëµ¥ÖĞ¼¤»î¸Ã²å¼ş¡£
+1. Upload `wp-hash-filename` folder to the `/wp-content/plugins/` directory. ä¸Šä¼ æ–‡ä»¶å¤¹â€œwp-hash-filenameâ€åˆ°â€œ/wp-content/plugins/â€ç›®å½•ã€‚
+2. Activate the plugin through the 'Plugins' menu in WordPress. åœ¨ä»ªè¡¨ç›˜æ’ä»¶èœå•ä¸­æ¿€æ´»è¯¥æ’ä»¶ã€‚
 
 == Screenshots ==
 
-1. Source filename. Ô´ÎÄ¼şÃû¡£
-2. Renamed by plugin. ±»²å¼şÖØÃüÃû¡£
-3. Upload directory rename file. ÉÏ´«Ä¿Â¼±»ÖØÃüÃûµÄÎÄ¼ş¡£
+1. Source filename. æºæ–‡ä»¶åã€‚
+2. Renamed by plugin. è¢«æ’ä»¶é‡å‘½åã€‚
+3. Upload directory rename file. ä¸Šä¼ ç›®å½•è¢«é‡å‘½åçš„æ–‡ä»¶ã€‚
